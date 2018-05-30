@@ -1,0 +1,74 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/txs/Downloads/android-Camera2Basic-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/txs/Downloads/android-Camera2Basic-master/Application/src/main/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "905",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1145"
+                    }
+                },
+                {
+                    "source": "/Users/txs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/5f07b1f0af540ad45c1d96d7dfe8b232/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "213,282,351,421,495,571,630,701",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "277,346,416,490,566,625,696,764"
+                    }
+                },
+                {
+                    "source": "/Users/txs/Downloads/android-Camera2Basic-master/Application/src/main/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "14,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "769,837",
+                        "endColumns": "67,67",
+                        "endOffsets": "832,900"
+                    }
+                },
+                {
+                    "source": "/Users/txs/Downloads/android-Camera2Basic-master/Application/src/main/res/values-sw600dp/attrs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "51",
+                        "endLines": "5",
+                        "endColumns": "20",
+                        "endOffsets": "204"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "20",
+                        "endOffsets": "208"
+                    }
+                }
+            ]
+        }
+    ]
+}

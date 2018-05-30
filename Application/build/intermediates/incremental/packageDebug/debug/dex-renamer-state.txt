@@ -1,0 +1,4 @@
+#Wed May 30 13:56:06 CST 2018
+base.0=/Users/txs/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
